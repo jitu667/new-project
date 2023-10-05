@@ -39,7 +39,7 @@ function App() {
 
       {/* First Part Start */}
       <div className="intro-img-mob">
-        <img src=".\src\assets\image-intro-mobile.jpg" alt="" />
+        <img src=".\image-intro-mobile.jpg" alt="" />
       </div>
       <div className="container-fluid">
         <div className="container d-flax bg-transparent">
