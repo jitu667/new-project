@@ -39,7 +39,7 @@ function App() {
 
       {/* First Part Start */}
       <div className="intro-img-mob">
-        <img src="..\src\assets\image-intro-mobile.jpg" alt="" />
+        <img src=".\src\assets\image-intro-mobile.jpg" alt="" />
       </div>
       <div className="container-fluid">
         <div className="container d-flax bg-transparent">
@@ -53,7 +53,7 @@ function App() {
               <button className="view-plans-button mt-5" type="submit">view plans</button>
             </div>
             <div className="col intro-img">
-              <img src="..\src\assets\image-intro-desktop.jpg" alt="" />
+              <img src=".\src\assets\image-intro-desktop.jpg" alt="" />
             </div>
           </div>
         </div>
