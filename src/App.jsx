@@ -53,7 +53,7 @@ function App() {
               <button className="view-plans-button mt-5" type="submit">view plans</button>
             </div>
             <div className="col intro-img">
-              <img src=".\src\assets\desktop.jpg" alt="" />
+              <img src=".\desktop.jpg" alt="" />
             </div>
           </div>
         </div>
