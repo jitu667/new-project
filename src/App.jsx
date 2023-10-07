@@ -1,6 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
@@ -39,7 +37,7 @@ function App() {
 
       {/* First Part Start */}
       <div className="intro-img-mob">
-        <img src=".\src\image-intro-mobile.jpg" alt="" />
+        <img src="image-intro-mobile.jpg" alt="" />
       </div>
       <div className="container-fluid">
         <div className="container d-flax bg-transparent">
@@ -53,7 +51,7 @@ function App() {
               <button className="view-plans-button mt-5" type="submit">view plans</button>
             </div>
             <div className="col intro-img">
-              <img src=".\src\desktop.jpg" alt=""/>
+              <img src="desktop.jpg" alt=""/>
             </div>
           </div>
         </div>
